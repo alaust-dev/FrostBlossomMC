@@ -1,2 +1,2 @@
 # FrostBlossomMC
-A Minecraft plugin framework to apply new items to the game
+FrostBlossomMC is a Minecraft plugin framework that enables developers to add new items to the game. It provides a comprehensive set of tools and APIs to create custom items that can be easily integrated into the game. These items can range from more complex items like weapons or tools with unique properties or purely cosmetic effects. FrostBlossomMC is designed specifically for adding new items to the game and does not support any other type of modification to the game.
